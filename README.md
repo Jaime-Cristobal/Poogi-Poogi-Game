@@ -12,7 +12,7 @@
   <img width="262" height="395" src="https://github.com/Jaime-Cristobal/Poogi-Poogi-Game/blob/master/gifs/sample_3.gif">
 </p>
 
-#### The core code is available for general usage. If any of here is used, attribution either to me or to this repository would be appreciated.
+#### The core code is available for general usage. If used, attribution either to me or to this repository would be appreciated.
 
 
 Desktop Version
