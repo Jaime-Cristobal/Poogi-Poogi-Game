@@ -12,3 +12,6 @@
   <img width="262" height="395" src="https://github.com/Jaime-Cristobal/Poogi-Poogi-Game/blob/master/gifs/sample_3.gif">
 </p>
 
+#### The core code is available for use
+
+[Desktop version available here.](https://drive.google.com/file/d/13mjo3EkZjasY3vh4j8IFL-WaSatLfT6I/view?usp=sharing)
