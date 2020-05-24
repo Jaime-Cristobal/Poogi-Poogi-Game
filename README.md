@@ -18,6 +18,11 @@ Desktop Version
 -----
 [Desktop version available here.](https://drive.google.com/file/d/13mjo3EkZjasY3vh4j8IFL-WaSatLfT6I/view?usp=sharing)
 
+#### The controls for the desktop version are:
+#### Mouse drag or keyboard arrows for general movement.
+#### 'Spacebar' to drop bombs
+#### 'Z' to fire lasers
+
 Attributed Works
 -----
 [LibGDX Framework](https://github.com/user/repo/blob/branch/other_file.md)
