@@ -1,4 +1,4 @@
-# Poogi-Poogi-Game
+# Poogi Poogi
 
 ![til](https://github.com/Jaime-Cristobal/Poogi-Poogi-Game/blob/master/gifs/sample_2.gif)
 ![til](https://github.com/Jaime-Cristobal/Poogi-Poogi-Game/blob/master/gifs/sample_4.gif)
