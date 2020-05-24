@@ -14,6 +14,7 @@
 
 #### The core code is available for general usage. If any of here is used, attribution either to me or to this repository would be appreciated.
 
+
 Desktop Version
 -----
 [Desktop version available here.](https://drive.google.com/file/d/13mjo3EkZjasY3vh4j8IFL-WaSatLfT6I/view?usp=sharing)
@@ -23,6 +24,40 @@ Desktop Version
 #### 'Spacebar' to drop bombs
 #### 'Z' to fire lasers
 
+
 Attributed Works
 -----
-[LibGDX Framework](https://github.com/user/repo/blob/branch/other_file.md)
+#### Full credits are available inside the game.
+
+#### Framework:
+[LibGDX Framework](https://libgdx.badlogicgames.com/)
+#### Assets:
+[Glitch Assets](https://www.glitchthegame.com/)
+[CraftPix Backgrounds](https://craftpix.net)
+[Smoke Aura](https://opengameart.org/users/beast)
+[Explosion and Collision Effects by Sinestesia](https://opengameart.org/users/sinestesia)
+[Lasers and beams by Rawdanitsu](https://opengameart.org/users/rawdanitsu)
+[Free Game Items Pack #2 Olga Bikmullina](http://ahninniah.graphics)
+[Transparent Bubble by aloknarula](https://opengameart.org/users/aloknarula)
+[Free Bubble Game Button Pack" by pzUH](https://opengameart.org/users/pzuh)
+#### Fonts:
+[Chewy Font by Side Show](https://fonts.google.com/specimen/Chewy)
+[Luckiest Guy Font by Astigmatic](https://fonts.google.com/specimen/Luckiest+Guy?selection.family=Luckiest+Guy)
+#### Music and Sound effects:
+[Children's March Theme by Cleyton Kauffman](https://soundcloud.com/cleytonkauffman)
+[One by pheonton](https://opengameart.org/users/pheonton)
+[Runaround by Yubatake](https://opengameart.org/users/yubatake)
+[Armadillo by Yubatake](https://opengameart.org/users/yubatake)
+[Osanpo Rag by Yubatake](https://opengameart.org/users/yubatake)
+[Gunma-chan Gambol by Yubatake](https://opengameart.org/users/yubatake)
+[Banana Track by skrjablin](https://opengameart.org/users/skrjablin)
+[Home Hamlet by Scott Elliott]()
+[In Tranquil Spring by Jonathan Shaw](www.jshaw.co.uk)
+[Selections from BGM Fun Vol.7 by syncopika](https://opengameart.org/users/syncopika)
+[Game Music Loop - Rising by HorrorPen](https://opengameart.org/users/horrorpen)
+[Glitch]()
+[Glitch]()
+[Glitch]()
+[Glitch]()
+[Glitch]()
+[Glitch]()
