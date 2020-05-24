@@ -14,6 +14,9 @@
 
 #### The core code is available for general usage. If any of here is used, attribution either to me or to this repository would be appreciated.
 
-Desktop Version
+# Desktop Version
 -----
 [Desktop version available here.](https://drive.google.com/file/d/13mjo3EkZjasY3vh4j8IFL-WaSatLfT6I/view?usp=sharing)
+
+# Attributed Works
+-----
