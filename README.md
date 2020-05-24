@@ -30,9 +30,9 @@ Attributed Works
 #### Full credits are available inside the game.
 
 #### Framework:
-[LibGDX Framework](https://libgdx.badlogicgames.com/)
+[LibGDX Framework.](https://libgdx.badlogicgames.com/)
 #### Assets:
-[Glitch Assets](https://www.glitchthegame.com/)
+[Glitch Assets.](https://www.glitchthegame.com/)
 [CraftPix Backgrounds](https://craftpix.net)
 [Smoke Aura](https://opengameart.org/users/beast)
 [Explosion and Collision Effects by Sinestesia](https://opengameart.org/users/sinestesia)
