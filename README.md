@@ -4,6 +4,8 @@
   <img width="180" height="180" src="https://github.com/Jaime-Cristobal/Poogi-Poogi-Game/blob/master/gifs/other/poogi_logo.png">
 </p>
 
+#### Take control a flying gray cat, capture eggs, and rift through dimensional spaces between worlds. Fly through platforms and fight off enemies with mines and lasers.
+
 ![til](https://github.com/Jaime-Cristobal/Poogi-Poogi-Game/blob/master/gifs/sample_2.gif)
 ![til](https://github.com/Jaime-Cristobal/Poogi-Poogi-Game/blob/master/gifs/sample_4.gif)
 ![til](https://github.com/Jaime-Cristobal/Poogi-Poogi-Game/blob/master/gifs/sample_3.gif)
