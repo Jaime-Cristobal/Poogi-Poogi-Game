@@ -32,8 +32,10 @@ Attributed Works
 #### Framework:
 [LibGDX Framework](https://libgdx.badlogicgames.com/)
 #### Assets:
-[Glitch Assets](https://www.glitchthegame.com/) ####
-[CraftPix Backgrounds](https://craftpix.net) ####
+[Glitch Assets](https://www.glitchthegame.com/)
+######
+[CraftPix Backgrounds](https://craftpix.net)
+######
 [Smoke Aura](https://opengameart.org/users/beast)
 [Explosion and Collision Effects by Sinestesia](https://opengameart.org/users/sinestesia)
 [Lasers and beams by Rawdanitsu](https://opengameart.org/users/rawdanitsu)
