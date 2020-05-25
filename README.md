@@ -23,6 +23,8 @@ Desktop Version
 -----
 [Desktop version available here.](https://drive.google.com/file/d/13mjo3EkZjasY3vh4j8IFL-WaSatLfT6I/view?usp=sharing)
 
+A JRE installed is required for the executable to run.
+
 The controls for the desktop version are:
 Mouse drag or keyboard arrows for general movement.
 'Spacebar' to drop bombs
