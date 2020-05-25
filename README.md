@@ -14,6 +14,10 @@ Take control a flying gray cat, capture eggs, and rift through dimensional space
 
 The core code is available for general usage. If used, attribution either to me or to this repository would be appreciated.
 
+NOTE: Building and running this code requires the LibGDX library framework. 
+
+The program's main call structure is Core.java -> StartMenu.java -> LoadScreen.java -> FirstStage.java -> UnloadScreen.java. Intermission.java is called after UnloadScreen.java if the player dies.
+
 
 Desktop Version
 -----
@@ -27,7 +31,7 @@ Mouse drag or keyboard arrows for general movement.
 
 Attributed Works
 -----
-#### Full credits are available inside the game.
+Full credits are available inside the game.
 
 #### Framework:
 [LibGDX Framework](https://libgdx.badlogicgames.com/)
