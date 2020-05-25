@@ -33,8 +33,9 @@ Attributed Works
 -----
 Full credits are available inside the game.
 
-#### Framework:
-[LibGDX Framework](https://libgdx.badlogicgames.com/)
+#### Libraries:
+[LibGDX Framework, ](https://libgdx.badlogicgames.com/)
+[Box2D by Erin Cato](https://box2d.org/)
 #### Assets:
 [Glitch Assets](https://www.glitchthegame.com/)
 [, CraftPix Backgrounds](https://craftpix.net)
