@@ -23,7 +23,7 @@ Desktop Version
 -----
 [Desktop version available here.](https://drive.google.com/file/d/13mjo3EkZjasY3vh4j8IFL-WaSatLfT6I/view?usp=sharing)
 
-Separate JRE installation from any vendor is required.
+A separate JRE installation from any vendor is required.
 
 #### The controls for the desktop version are:
 Mouse drag or keyboard arrows for general movement.
