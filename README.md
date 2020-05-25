@@ -16,7 +16,7 @@ The core code is available for general usage. If used, attribution either to me 
 
 NOTE: Building and running this code requires the LibGDX library framework. 
 
-The program's main call structure is Core.java -> StartMenu.java -> LoadScreen.java -> FirstStage.java -> UnloadScreen.java. Intermission.java is called after UnloadScreen.java if the player dies.
+The program's main call structure is LibGDX System (Android or Desktop) Launcher -> Core.java -> StartMenu.java -> LoadScreen.java -> FirstStage.java -> UnloadScreen.java. Intermission.java is called after UnloadScreen.java if the player dies.
 
 
 Desktop Version
