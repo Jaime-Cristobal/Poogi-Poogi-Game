@@ -25,9 +25,11 @@ Desktop Version
 
 A JRE installed is required for the executable to run.
 
-The controls for the desktop version are:
+#### The controls for the desktop version are:
 Mouse drag or keyboard arrows for general movement.
+
 'Spacebar' to drop bombs
+
 'Z' to fire lasers
 
 
